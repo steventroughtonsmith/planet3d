@@ -1,4 +1,4 @@
-This code originally came from Jeff Lamarche's blog post: http://iphonedevelopment.blogspot.com/2009/05/procedural-spheres-in-opengl-es.html
+This code originally came from Jeff LaMarche's blog post: http://iphonedevelopment.blogspot.com/2009/05/procedural-spheres-in-opengl-es.html
 
 https://github.com/jlamarche/Old-Blog-Code
 
